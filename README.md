@@ -1,2 +1,2 @@
-# ws2_assign1
-Assignment 1 for Web Scripting 2
+# js_assign2
+Assignment for Web Scripting 2
