@@ -5,15 +5,17 @@ function Products () {
         <>
         <div>
             <h1 className="font-bold text-4xl text-center">PRODUCTS</h1>
-            <div className="flex items-center justify-center min-h-screen container mx-auto">
+            <div className="flex items-center justify-center container mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 
 
-                    <div className="rounded-xl shadow-lg">
+                    <div className="bg-gray-300 rounded-xl shadow-lg">
                         <div className="p-5 flex-col">
                             <div className="rounded-xl overflow-hidden">
                                  <img src="./public/img1.jpg" alt="guitar picture" />
                             </div>
+                            <h4 className="text-2xl md:text-3xl font-medium mt-3">Gibson Les Paul</h4>
+                            <p className="text-2xl">$1,299.99</p>
                         </div>
                     </div>
                 
