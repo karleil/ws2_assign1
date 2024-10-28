@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const Header = () => {
+function Header () {
     return (
      <header className="bg-black">
         <nav className="flex justify-between items-center  w-[80%] mx-auto py-4">
@@ -12,7 +12,7 @@ const Header = () => {
                  <li><a className="text-white px-4" href="#">About</a></li>
                  <li><a className="text-white px-4" href="#">Contact</a></li>
             </div>
-            <div>
+            <div > 
                 <button className="font-semibold bg-yellow-500 px-4 py-1 rounded-lg  text-black">Sign In</button>
             </div>
         </nav>
