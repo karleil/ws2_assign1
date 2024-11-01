@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Gibson Les Paul",
+      "price": "1,299.99",
+      "productImage": "/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Epiphone",
+      "price": "1,299.99",
+      "productImage": "/img2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Gretsch",
+      "price": "1,299.99",
+      "productImage": "/img3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ibanez",
+      "price": "1,299.99",
+      "productImage": "/img4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fender",
+      "price": "1,299.99",
+      "productImage": "/img5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Fender 2",
+      "price": "1,299.99",
+      "productImage": "/img6.jpg"
+    }
+  ]
